@@ -1,6 +1,6 @@
 # American style cinnamon rolls
 
-![Heb je al eens zelf kaneelbroodjes of cinnamon rolls gemaakt? Dit cinnamon rolls recept is gebaseerd op de American cinnamon rolls en die worden geserveerd met een fris roomkaas glazuur. Deze Amerikaanse kaneelbroodjes zijn zacht, fluffy, een beetje kleverig en vol van smaak. Ze zien er spectaculair uit en smaken heel erg lekker op ieder moment van de dag. Serveer ze bijvoorbeeld als koffiebroodje, snack of feestelijk ontbijt.]
+Heb je al eens zelf kaneelbroodjes of cinnamon rolls gemaakt? Dit cinnamon rolls recept is gebaseerd op de American cinnamon rolls en die worden geserveerd met een fris roomkaas glazuur. Deze Amerikaanse kaneelbroodjes zijn zacht, fluffy, een beetje kleverig en vol van smaak. Ze zien er spectaculair uit en smaken heel erg lekker op ieder moment van de dag. Serveer ze bijvoorbeeld als koffiebroodje, snack of feestelijk ontbijt.
 
 <img width="734" height="915" alt="recept" src="https://github.com/user-attachments/assets/7328b61e-9cbf-4d17-8b04-169a16e9bc5d" />
 
